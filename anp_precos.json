@@ -1,0 +1,5447 @@
+{
+  "_comentario": "Preços reais da ANP (Quatro Últimas Semanas).",
+  "precos": [
+    {
+      "postoId": "anp_0001",
+      "combustivel": "diesel",
+      "valor": 7.19,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0001",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0001",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.29,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0001",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0002",
+      "combustivel": "diesel",
+      "valor": 6.09,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0002",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0002",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.29,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0002",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0003",
+      "combustivel": "diesel",
+      "valor": 6.85,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0003",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0003",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.55,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0003",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0004",
+      "combustivel": "diesel",
+      "valor": 6.87,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0004",
+      "combustivel": "gasolina_comum",
+      "valor": 5.85,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0004",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.19,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0004",
+      "combustivel": "etanol",
+      "valor": 3.39,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0005",
+      "combustivel": "diesel",
+      "valor": 6.39,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0005",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0005",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.79,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0005",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0006",
+      "combustivel": "diesel",
+      "valor": 6.19,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0006",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0006",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.59,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0006",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0007",
+      "combustivel": "diesel",
+      "valor": 7.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0007",
+      "combustivel": "gasolina_comum",
+      "valor": 6.89,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0007",
+      "combustivel": "gasolina_aditivada",
+      "valor": 7.03,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0007",
+      "combustivel": "etanol",
+      "valor": 4.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0008",
+      "combustivel": "diesel",
+      "valor": 6.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0008",
+      "combustivel": "gasolina_comum",
+      "valor": 6.89,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0008",
+      "combustivel": "gasolina_aditivada",
+      "valor": 7.03,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0008",
+      "combustivel": "etanol",
+      "valor": 4.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0009",
+      "combustivel": "diesel",
+      "valor": 6.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0009",
+      "combustivel": "gasolina_comum",
+      "valor": 6.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0009",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.89,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0009",
+      "combustivel": "etanol",
+      "valor": 4.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0010",
+      "combustivel": "diesel",
+      "valor": 6.44,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0010",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0010",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.29,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0010",
+      "combustivel": "etanol",
+      "valor": 3.74,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0011",
+      "combustivel": "diesel",
+      "valor": 7.09,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0011",
+      "combustivel": "gasolina_comum",
+      "valor": 6.59,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0011",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0011",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0012",
+      "combustivel": "diesel",
+      "valor": 7.29,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0012",
+      "combustivel": "gasolina_comum",
+      "valor": 6.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0012",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0012",
+      "combustivel": "etanol",
+      "valor": 4.29,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0013",
+      "combustivel": "diesel",
+      "valor": 5.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0013",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0013",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0014",
+      "combustivel": "diesel",
+      "valor": 6.77,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0014",
+      "combustivel": "gasolina_comum",
+      "valor": 5.87,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0014",
+      "combustivel": "etanol",
+      "valor": 3.38,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0015",
+      "combustivel": "diesel",
+      "valor": 6.29,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0015",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0015",
+      "combustivel": "gasolina_aditivada",
+      "valor": 5.99,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0015",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0016",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0016",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0016",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.59,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0016",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0017",
+      "combustivel": "diesel",
+      "valor": 5.99,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0017",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0017",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.49,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0017",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0018",
+      "combustivel": "diesel",
+      "valor": 7.29,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0018",
+      "combustivel": "gasolina_comum",
+      "valor": 6.09,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0018",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.17,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0018",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0019",
+      "combustivel": "diesel",
+      "valor": 7.39,
+      "dataColeta": "2026-08-27T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0019",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0019",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0020",
+      "combustivel": "diesel",
+      "valor": 6.69,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0020",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0020",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0021",
+      "combustivel": "diesel",
+      "valor": 7.39,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0021",
+      "combustivel": "gasolina_comum",
+      "valor": 6.69,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0021",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0021",
+      "combustivel": "etanol",
+      "valor": 4.09,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0022",
+      "combustivel": "diesel",
+      "valor": 6.79,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0022",
+      "combustivel": "gasolina_comum",
+      "valor": 5.97,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0022",
+      "combustivel": "gasolina_aditivada",
+      "valor": 5.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0022",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0023",
+      "combustivel": "diesel",
+      "valor": 6.19,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0023",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0023",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.29,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0023",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0024",
+      "combustivel": "diesel",
+      "valor": 7.19,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0024",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0024",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0024",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0025",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0025",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0025",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0025",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0026",
+      "combustivel": "diesel",
+      "valor": 5.95,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0026",
+      "combustivel": "gasolina_comum",
+      "valor": 5.98,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0026",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.08,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0026",
+      "combustivel": "etanol",
+      "valor": 3.45,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0027",
+      "combustivel": "diesel",
+      "valor": 6.65,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0027",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0027",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0027",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0028",
+      "combustivel": "diesel",
+      "valor": 5.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0028",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0028",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.29,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0028",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0029",
+      "combustivel": "diesel",
+      "valor": 5.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0029",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0029",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.09,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0029",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0030",
+      "combustivel": "diesel",
+      "valor": 6.69,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0030",
+      "combustivel": "gasolina_comum",
+      "valor": 5.69,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0030",
+      "combustivel": "etanol",
+      "valor": 3.19,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0031",
+      "combustivel": "diesel",
+      "valor": 5.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0031",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0031",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.29,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0031",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0032",
+      "combustivel": "diesel",
+      "valor": 7.29,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0032",
+      "combustivel": "gasolina_comum",
+      "valor": 5.95,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0032",
+      "combustivel": "gasolina_aditivada",
+      "valor": 5.95,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0032",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0033",
+      "combustivel": "diesel",
+      "valor": 6.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0033",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0033",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0033",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0034",
+      "combustivel": "diesel",
+      "valor": 6.25,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0034",
+      "combustivel": "gasolina_comum",
+      "valor": 6.2,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0034",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.25,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0034",
+      "combustivel": "etanol",
+      "valor": 3.55,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0035",
+      "combustivel": "diesel",
+      "valor": 6.89,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0035",
+      "combustivel": "gasolina_comum",
+      "valor": 6.09,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0035",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0035",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0036",
+      "combustivel": "diesel",
+      "valor": 6.79,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0036",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0036",
+      "combustivel": "gasolina_comum",
+      "valor": 6.09,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0036",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.19,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0037",
+      "combustivel": "diesel",
+      "valor": 6.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0037",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0037",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0037",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0038",
+      "combustivel": "diesel",
+      "valor": 6.69,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0038",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0038",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0038",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0039",
+      "combustivel": "diesel",
+      "valor": 6.89,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0039",
+      "combustivel": "gasolina_comum",
+      "valor": 5.89,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0039",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.09,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0039",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0040",
+      "combustivel": "diesel",
+      "valor": 6.35,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0040",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0040",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0040",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0041",
+      "combustivel": "diesel",
+      "valor": 6.07,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0041",
+      "combustivel": "gasolina_comum",
+      "valor": 5.97,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0041",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0041",
+      "combustivel": "etanol",
+      "valor": 3.57,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0042",
+      "combustivel": "diesel",
+      "valor": 6.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0042",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0042",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0042",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0043",
+      "combustivel": "diesel",
+      "valor": 6.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0043",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0043",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0043",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0044",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0044",
+      "combustivel": "gasolina_comum",
+      "valor": 5.89,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0044",
+      "combustivel": "gasolina_aditivada",
+      "valor": 5.89,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0044",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0045",
+      "combustivel": "diesel",
+      "valor": 5.99,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0045",
+      "combustivel": "gasolina_comum",
+      "valor": 6.59,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0045",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.79,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0045",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0046",
+      "combustivel": "diesel",
+      "valor": 7.09,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0046",
+      "combustivel": "gasolina_comum",
+      "valor": 6.57,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0046",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.67,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0046",
+      "combustivel": "etanol",
+      "valor": 3.77,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0047",
+      "combustivel": "diesel",
+      "valor": 7.19,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0047",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0047",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0047",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0048",
+      "combustivel": "diesel",
+      "valor": 6.39,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0048",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0048",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.49,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0048",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0049",
+      "combustivel": "diesel",
+      "valor": 6.59,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0049",
+      "combustivel": "gasolina_comum",
+      "valor": 6.69,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0049",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.99,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0050",
+      "combustivel": "diesel",
+      "valor": 7.09,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0050",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0050",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0050",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0051",
+      "combustivel": "diesel",
+      "valor": 6.69,
+      "dataColeta": "2026-09-01T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0051",
+      "combustivel": "gasolina_comum",
+      "valor": 6.37,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0051",
+      "combustivel": "gasolina_aditivada",
+      "valor": 7.07,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0051",
+      "combustivel": "etanol",
+      "valor": 3.77,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0052",
+      "combustivel": "diesel",
+      "valor": 6.89,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0052",
+      "combustivel": "gasolina_comum",
+      "valor": 6.59,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0052",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0053",
+      "combustivel": "diesel",
+      "valor": 7.29,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0053",
+      "combustivel": "gasolina_comum",
+      "valor": 6.55,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0053",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.79,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0053",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0054",
+      "combustivel": "diesel",
+      "valor": 6.59,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0054",
+      "combustivel": "gasolina_comum",
+      "valor": 6.27,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0054",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.27,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0054",
+      "combustivel": "etanol",
+      "valor": 3.67,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0055",
+      "combustivel": "diesel",
+      "valor": 6.07,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0055",
+      "combustivel": "gasolina_comum",
+      "valor": 6.37,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0055",
+      "combustivel": "etanol",
+      "valor": 3.47,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0056",
+      "combustivel": "diesel",
+      "valor": 6.79,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0056",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0056",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0056",
+      "combustivel": "etanol",
+      "valor": 3.67,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0057",
+      "combustivel": "diesel",
+      "valor": 6.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0057",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0057",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0057",
+      "combustivel": "etanol",
+      "valor": 3.75,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0058",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0058",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0058",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0058",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0059",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0059",
+      "combustivel": "gasolina_comum",
+      "valor": 5.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0059",
+      "combustivel": "gasolina_aditivada",
+      "valor": 5.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0059",
+      "combustivel": "etanol",
+      "valor": 3.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0060",
+      "combustivel": "diesel",
+      "valor": 6.79,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0060",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0060",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0060",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.45,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0061",
+      "combustivel": "diesel",
+      "valor": 6.69,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0061",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0061",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0061",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0062",
+      "combustivel": "diesel",
+      "valor": 7.09,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0062",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0062",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.99,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0062",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0063",
+      "combustivel": "diesel",
+      "valor": 7.29,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0063",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0063",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.65,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0063",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0064",
+      "combustivel": "diesel",
+      "valor": 6.69,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0064",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0064",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0064",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0065",
+      "combustivel": "diesel",
+      "valor": 7.79,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0065",
+      "combustivel": "gasolina_comum",
+      "valor": 6.95,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0065",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.95,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0065",
+      "combustivel": "etanol",
+      "valor": 4.59,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0066",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0066",
+      "combustivel": "gasolina_comum",
+      "valor": 6.69,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0066",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.89,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0066",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0067",
+      "combustivel": "diesel",
+      "valor": 6.69,
+      "dataColeta": "2026-09-10T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0067",
+      "combustivel": "gasolina_comum",
+      "valor": 6.69,
+      "dataColeta": "2026-09-10T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0067",
+      "combustivel": "gasolina_aditivada",
+      "valor": 7.09,
+      "dataColeta": "2026-09-10T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0067",
+      "combustivel": "etanol",
+      "valor": 3.98,
+      "dataColeta": "2026-09-10T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0068",
+      "combustivel": "diesel",
+      "valor": 7.29,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0068",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0068",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.39,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0068",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0069",
+      "combustivel": "diesel",
+      "valor": 6.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0069",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0069",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0069",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0070",
+      "combustivel": "diesel",
+      "valor": 5.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0070",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0070",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.79,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0070",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0071",
+      "combustivel": "diesel",
+      "valor": 7.09,
+      "dataColeta": "2026-09-03T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0071",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-03T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0071",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-03T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0071",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-03T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0072",
+      "combustivel": "diesel",
+      "valor": 7.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0072",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0072",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0073",
+      "combustivel": "diesel",
+      "valor": 5.97,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0073",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0073",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0073",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.29,
+      "dataColeta": "2026-09-03T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0074",
+      "combustivel": "diesel",
+      "valor": 6.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0074",
+      "combustivel": "gasolina_comum",
+      "valor": 6.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0074",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0074",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0075",
+      "combustivel": "diesel",
+      "valor": 7.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0075",
+      "combustivel": "gasolina_comum",
+      "valor": 6.09,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0075",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0075",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0076",
+      "combustivel": "diesel",
+      "valor": 6.69,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0076",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0076",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0077",
+      "combustivel": "diesel",
+      "valor": 6.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0077",
+      "combustivel": "gasolina_comum",
+      "valor": 6.09,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0077",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.09,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0077",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0078",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0078",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0078",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0078",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0079",
+      "combustivel": "diesel",
+      "valor": 6.89,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0079",
+      "combustivel": "gasolina_comum",
+      "valor": 6.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0079",
+      "combustivel": "gasolina_aditivada",
+      "valor": 7.19,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0079",
+      "combustivel": "etanol",
+      "valor": 4.19,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0080",
+      "combustivel": "diesel",
+      "valor": 6.49,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0080",
+      "combustivel": "gasolina_comum",
+      "valor": 6.79,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0080",
+      "combustivel": "gasolina_aditivada",
+      "valor": 7.09,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0080",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0081",
+      "combustivel": "diesel",
+      "valor": 7.2,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0081",
+      "combustivel": "gasolina_comum",
+      "valor": 6.8,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0081",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.8,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0081",
+      "combustivel": "etanol",
+      "valor": 4.4,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0082",
+      "combustivel": "diesel",
+      "valor": 7.14,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0082",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0082",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.39,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0082",
+      "combustivel": "etanol",
+      "valor": 3.74,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0083",
+      "combustivel": "diesel",
+      "valor": 5.99,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0083",
+      "combustivel": "gasolina_comum",
+      "valor": 6.34,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0083",
+      "combustivel": "etanol",
+      "valor": 3.94,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0084",
+      "combustivel": "diesel",
+      "valor": 6.09,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0084",
+      "combustivel": "gasolina_comum",
+      "valor": 6.17,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0084",
+      "combustivel": "etanol",
+      "valor": 3.87,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0085",
+      "combustivel": "diesel",
+      "valor": 6.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0085",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0085",
+      "combustivel": "etanol",
+      "valor": 3.88,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0086",
+      "combustivel": "diesel",
+      "valor": 6.39,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0086",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0086",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0086",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0087",
+      "combustivel": "diesel",
+      "valor": 6.39,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0087",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0087",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0087",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0088",
+      "combustivel": "diesel",
+      "valor": 6.19,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0088",
+      "combustivel": "gasolina_comum",
+      "valor": 5.79,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0088",
+      "combustivel": "etanol",
+      "valor": 3.05,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0089",
+      "combustivel": "diesel",
+      "valor": 6.89,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0089",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0089",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.39,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0089",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0090",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0090",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0090",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0090",
+      "combustivel": "etanol",
+      "valor": 3.68,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0091",
+      "combustivel": "diesel",
+      "valor": 6.89,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0091",
+      "combustivel": "gasolina_comum",
+      "valor": 6.47,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0091",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.79,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0091",
+      "combustivel": "etanol",
+      "valor": 3.97,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0092",
+      "combustivel": "diesel",
+      "valor": 5.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0092",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0092",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0093",
+      "combustivel": "diesel",
+      "valor": 6.19,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0093",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0093",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0093",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0094",
+      "combustivel": "diesel",
+      "valor": 6.49,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0094",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0094",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.79,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0094",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0095",
+      "combustivel": "diesel",
+      "valor": 6.29,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0095",
+      "combustivel": "gasolina_comum",
+      "valor": 6.53,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0095",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0096",
+      "combustivel": "diesel",
+      "valor": 6.29,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0096",
+      "combustivel": "gasolina_comum",
+      "valor": 6.53,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0096",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0097",
+      "combustivel": "diesel",
+      "valor": 6.89,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0097",
+      "combustivel": "gasolina_comum",
+      "valor": 6.84,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0097",
+      "combustivel": "gasolina_aditivada",
+      "valor": 7.04,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0097",
+      "combustivel": "etanol",
+      "valor": 4.23,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0098",
+      "combustivel": "diesel",
+      "valor": 6.29,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0098",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0098",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.49,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0098",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0099",
+      "combustivel": "diesel",
+      "valor": 6.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0099",
+      "combustivel": "gasolina_comum",
+      "valor": 6.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0099",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0099",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0100",
+      "combustivel": "diesel",
+      "valor": 6.75,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0100",
+      "combustivel": "gasolina_comum",
+      "valor": 5.97,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0100",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.77,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0100",
+      "combustivel": "etanol",
+      "valor": 3.57,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0101",
+      "combustivel": "diesel",
+      "valor": 7.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0101",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0101",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0101",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0102",
+      "combustivel": "diesel",
+      "valor": 7.09,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0102",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0102",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0102",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0103",
+      "combustivel": "diesel",
+      "valor": 6.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0103",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0103",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0103",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0104",
+      "combustivel": "diesel",
+      "valor": 5.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0104",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0104",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0104",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0105",
+      "combustivel": "diesel",
+      "valor": 6.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0105",
+      "combustivel": "gasolina_comum",
+      "valor": 5.74,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0105",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.24,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0105",
+      "combustivel": "etanol",
+      "valor": 3.09,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0106",
+      "combustivel": "diesel",
+      "valor": 7.29,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0106",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0106",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0107",
+      "combustivel": "diesel",
+      "valor": 6.89,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0107",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0107",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.19,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0107",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0108",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0108",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0108",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.49,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0108",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0109",
+      "combustivel": "diesel",
+      "valor": 6.89,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0109",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0109",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.39,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0109",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0110",
+      "combustivel": "diesel",
+      "valor": 6.29,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0110",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0110",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0111",
+      "combustivel": "diesel",
+      "valor": 6.59,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0111",
+      "combustivel": "gasolina_comum",
+      "valor": 6.27,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0111",
+      "combustivel": "etanol",
+      "valor": 3.67,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0112",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0112",
+      "combustivel": "gasolina_comum",
+      "valor": 6.27,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0112",
+      "combustivel": "etanol",
+      "valor": 3.47,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0113",
+      "combustivel": "diesel",
+      "valor": 6.69,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0113",
+      "combustivel": "gasolina_comum",
+      "valor": 5.89,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0113",
+      "combustivel": "gasolina_aditivada",
+      "valor": 5.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0113",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0114",
+      "combustivel": "diesel",
+      "valor": 6.59,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0114",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0114",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0114",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0115",
+      "combustivel": "diesel",
+      "valor": 6.57,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0115",
+      "combustivel": "gasolina_comum",
+      "valor": 6.57,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0115",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.57,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0115",
+      "combustivel": "etanol",
+      "valor": 3.97,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0116",
+      "combustivel": "diesel",
+      "valor": 7.19,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0116",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0116",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0116",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0117",
+      "combustivel": "diesel",
+      "valor": 6.19,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0117",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0117",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0118",
+      "combustivel": "diesel",
+      "valor": 6.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0118",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0118",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0118",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0119",
+      "combustivel": "diesel",
+      "valor": 6.29,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0119",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0119",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.59,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0119",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0120",
+      "combustivel": "diesel",
+      "valor": 6.59,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0120",
+      "combustivel": "gasolina_comum",
+      "valor": 6.55,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0120",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.85,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0120",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0121",
+      "combustivel": "diesel",
+      "valor": 6.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0121",
+      "combustivel": "gasolina_comum",
+      "valor": 5.89,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0121",
+      "combustivel": "gasolina_aditivada",
+      "valor": 5.94,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0121",
+      "combustivel": "etanol",
+      "valor": 3.47,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0122",
+      "combustivel": "diesel",
+      "valor": 6.89,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0122",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0122",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.29,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0122",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0123",
+      "combustivel": "diesel",
+      "valor": 6.93,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0123",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0123",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0124",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0124",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0124",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.39,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0124",
+      "combustivel": "etanol",
+      "valor": 3.47,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0125",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-10T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0125",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-10T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0125",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.39,
+      "dataColeta": "2026-09-10T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0125",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-10T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0126",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0126",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0126",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.79,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0126",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0127",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0127",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0127",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.49,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0127",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0128",
+      "combustivel": "diesel",
+      "valor": 7.14,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0128",
+      "combustivel": "gasolina_comum",
+      "valor": 6.09,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0128",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.19,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0128",
+      "combustivel": "etanol",
+      "valor": 3.74,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0129",
+      "combustivel": "diesel",
+      "valor": 7.09,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0129",
+      "combustivel": "gasolina_comum",
+      "valor": 6.69,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0129",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.89,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0129",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0130",
+      "combustivel": "diesel",
+      "valor": 6.47,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0130",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0130",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0130",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0131",
+      "combustivel": "diesel",
+      "valor": 6.97,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0131",
+      "combustivel": "gasolina_comum",
+      "valor": 6.07,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0131",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.17,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0131",
+      "combustivel": "etanol",
+      "valor": 3.57,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0132",
+      "combustivel": "diesel",
+      "valor": 6.69,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0132",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0132",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0132",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0133",
+      "combustivel": "diesel",
+      "valor": 6.59,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0133",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0133",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.79,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0133",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0134",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0134",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0134",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.09,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0134",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0135",
+      "combustivel": "diesel",
+      "valor": 6.85,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0135",
+      "combustivel": "gasolina_comum",
+      "valor": 6.09,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0135",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0136",
+      "combustivel": "diesel",
+      "valor": 7.53,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0136",
+      "combustivel": "gasolina_comum",
+      "valor": 6.9,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0136",
+      "combustivel": "gasolina_aditivada",
+      "valor": 7.17,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0137",
+      "combustivel": "diesel",
+      "valor": 6.19,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0137",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0137",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0137",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0138",
+      "combustivel": "diesel",
+      "valor": 6.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0138",
+      "combustivel": "gasolina_comum",
+      "valor": 6.56,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0138",
+      "combustivel": "etanol",
+      "valor": 3.95,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0139",
+      "combustivel": "diesel",
+      "valor": 7.09,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0139",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0139",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0140",
+      "combustivel": "diesel",
+      "valor": 6.64,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0140",
+      "combustivel": "gasolina_comum",
+      "valor": 6.09,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0140",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0141",
+      "combustivel": "diesel",
+      "valor": 7.19,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0141",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0141",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.59,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0141",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0142",
+      "combustivel": "diesel",
+      "valor": 6.79,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0142",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0142",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0143",
+      "combustivel": "diesel",
+      "valor": 6.69,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0143",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0143",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0144",
+      "combustivel": "diesel",
+      "valor": 6.69,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0144",
+      "combustivel": "gasolina_comum",
+      "valor": 6.69,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0144",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.99,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0144",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0145",
+      "combustivel": "diesel",
+      "valor": 6.69,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0145",
+      "combustivel": "gasolina_comum",
+      "valor": 6.79,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0145",
+      "combustivel": "gasolina_aditivada",
+      "valor": 7.09,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0145",
+      "combustivel": "etanol",
+      "valor": 4.09,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0146",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0146",
+      "combustivel": "gasolina_comum",
+      "valor": 6.17,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0146",
+      "combustivel": "etanol",
+      "valor": 3.87,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0146",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.24,
+      "dataColeta": "2026-09-10T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0147",
+      "combustivel": "diesel",
+      "valor": 6.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0147",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0147",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0147",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0148",
+      "combustivel": "diesel",
+      "valor": 5.99,
+      "dataColeta": "2026-09-03T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0148",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-03T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0148",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-03T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0148",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.89,
+      "dataColeta": "2026-09-03T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0149",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0149",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0149",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0150",
+      "combustivel": "diesel",
+      "valor": 6.39,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0150",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0150",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.65,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0150",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0151",
+      "combustivel": "diesel",
+      "valor": 6.09,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0151",
+      "combustivel": "gasolina_comum",
+      "valor": 6.09,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0151",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0152",
+      "combustivel": "diesel",
+      "valor": 6.89,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0152",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0152",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.39,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0152",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0153",
+      "combustivel": "diesel",
+      "valor": 5.99,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0153",
+      "combustivel": "gasolina_comum",
+      "valor": 5.95,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0153",
+      "combustivel": "etanol",
+      "valor": 3.39,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0154",
+      "combustivel": "diesel",
+      "valor": 7.09,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0154",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0154",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.49,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0154",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0155",
+      "combustivel": "diesel",
+      "valor": 6.59,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0155",
+      "combustivel": "gasolina_comum",
+      "valor": 5.85,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0155",
+      "combustivel": "gasolina_aditivada",
+      "valor": 5.85,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0155",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0156",
+      "combustivel": "diesel",
+      "valor": 6.59,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0156",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0156",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.29,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0156",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0157",
+      "combustivel": "diesel",
+      "valor": 7.29,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0157",
+      "combustivel": "gasolina_aditivada",
+      "valor": 7.07,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0157",
+      "combustivel": "etanol",
+      "valor": 3.97,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0157",
+      "combustivel": "gasolina_comum",
+      "valor": 6.47,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0158",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0158",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0158",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0158",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0159",
+      "combustivel": "diesel",
+      "valor": 6.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0159",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0159",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0160",
+      "combustivel": "diesel",
+      "valor": 6.17,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0160",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0160",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0161",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0161",
+      "combustivel": "gasolina_comum",
+      "valor": 5.89,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0161",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0161",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0162",
+      "combustivel": "diesel",
+      "valor": 6.29,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0162",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0162",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.59,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0162",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0163",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0163",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0163",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.09,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0163",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0164",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0164",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0164",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0164",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0165",
+      "combustivel": "diesel",
+      "valor": 6.29,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0165",
+      "combustivel": "gasolina_comum",
+      "valor": 6.69,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0165",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.79,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0166",
+      "combustivel": "diesel",
+      "valor": 6.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0166",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0166",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0166",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0167",
+      "combustivel": "diesel",
+      "valor": 6.89,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0167",
+      "combustivel": "gasolina_comum",
+      "valor": 6.69,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0167",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.89,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0167",
+      "combustivel": "etanol",
+      "valor": 4.09,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0168",
+      "combustivel": "diesel",
+      "valor": 5.79,
+      "dataColeta": "2026-09-09T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0168",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-09T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0168",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-09T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0168",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-09T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0169",
+      "combustivel": "diesel",
+      "valor": 6.65,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0169",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0169",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0170",
+      "combustivel": "diesel",
+      "valor": 6.09,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0170",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0170",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0171",
+      "combustivel": "diesel",
+      "valor": 7.59,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0171",
+      "combustivel": "gasolina_comum",
+      "valor": 6.89,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0171",
+      "combustivel": "gasolina_aditivada",
+      "valor": 7.15,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0171",
+      "combustivel": "etanol",
+      "valor": 4.39,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0172",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-09T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0172",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-09T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0172",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.59,
+      "dataColeta": "2026-09-09T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0172",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-09T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0173",
+      "combustivel": "diesel",
+      "valor": 5.79,
+      "dataColeta": "2026-09-10T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0173",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-10T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0173",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-10T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0173",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.29,
+      "dataColeta": "2026-09-10T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0174",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0174",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0174",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.59,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0174",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0175",
+      "combustivel": "diesel",
+      "valor": 6.89,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0175",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0175",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.65,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0175",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0176",
+      "combustivel": "diesel",
+      "valor": 5.89,
+      "dataColeta": "2026-09-09T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0176",
+      "combustivel": "gasolina_comum",
+      "valor": 6.79,
+      "dataColeta": "2026-09-09T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0176",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.79,
+      "dataColeta": "2026-09-09T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0176",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-09T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0177",
+      "combustivel": "diesel",
+      "valor": 6.87,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0177",
+      "combustivel": "gasolina_comum",
+      "valor": 6.59,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0177",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.59,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0177",
+      "combustivel": "etanol",
+      "valor": 4.17,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0178",
+      "combustivel": "diesel",
+      "valor": 5.99,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0178",
+      "combustivel": "gasolina_comum",
+      "valor": 6.09,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0178",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.19,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0178",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0179",
+      "combustivel": "diesel",
+      "valor": 6.69,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0179",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0179",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0179",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0180",
+      "combustivel": "diesel",
+      "valor": 7.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0180",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0180",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0180",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0181",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0181",
+      "combustivel": "gasolina_comum",
+      "valor": 6.07,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0181",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.17,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0181",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0182",
+      "combustivel": "diesel",
+      "valor": 7.29,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0182",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0182",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0182",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0183",
+      "combustivel": "diesel",
+      "valor": 6.69,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0183",
+      "combustivel": "gasolina_comum",
+      "valor": 5.97,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0183",
+      "combustivel": "gasolina_aditivada",
+      "valor": 5.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0183",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0184",
+      "combustivel": "diesel",
+      "valor": 7.59,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0184",
+      "combustivel": "gasolina_comum",
+      "valor": 6.79,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0184",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0184",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0185",
+      "combustivel": "diesel",
+      "valor": 7.39,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0185",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0185",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0185",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0186",
+      "combustivel": "diesel",
+      "valor": 5.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0186",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0186",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0186",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0187",
+      "combustivel": "diesel",
+      "valor": 6.97,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0187",
+      "combustivel": "gasolina_comum",
+      "valor": 5.87,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0187",
+      "combustivel": "gasolina_aditivada",
+      "valor": 5.97,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0187",
+      "combustivel": "etanol",
+      "valor": 3.47,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0188",
+      "combustivel": "diesel",
+      "valor": 6.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0188",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0188",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0188",
+      "combustivel": "etanol",
+      "valor": 4.09,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0189",
+      "combustivel": "diesel",
+      "valor": 7.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0189",
+      "combustivel": "gasolina_comum",
+      "valor": 6.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0189",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0189",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0190",
+      "combustivel": "diesel",
+      "valor": 7.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0190",
+      "combustivel": "gasolina_comum",
+      "valor": 5.97,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0190",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0190",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0191",
+      "combustivel": "diesel",
+      "valor": 6.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0191",
+      "combustivel": "gasolina_comum",
+      "valor": 5.69,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0191",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0191",
+      "combustivel": "etanol",
+      "valor": 3.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0192",
+      "combustivel": "diesel",
+      "valor": 7.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0192",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0192",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0192",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0193",
+      "combustivel": "diesel",
+      "valor": 6.39,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0193",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0193",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.35,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0193",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0194",
+      "combustivel": "gasolina_comum",
+      "valor": 6.18,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0194",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0195",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0195",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.59,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0196",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0196",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.49,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0196",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0197",
+      "combustivel": "gasolina_comum",
+      "valor": 5.97,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0197",
+      "combustivel": "gasolina_aditivada",
+      "valor": 5.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0197",
+      "combustivel": "etanol",
+      "valor": 3.39,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0198",
+      "combustivel": "gasolina_comum",
+      "valor": 5.97,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0198",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0199",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.89,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0199",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0200",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0200",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.83,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0200",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0201",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0201",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0202",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0202",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0202",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0203",
+      "combustivel": "gasolina_comum",
+      "valor": 5.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0203",
+      "combustivel": "etanol",
+      "valor": 3.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0204",
+      "combustivel": "gasolina_comum",
+      "valor": 5.95,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0204",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0205",
+      "combustivel": "gasolina_comum",
+      "valor": 6.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0205",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0205",
+      "combustivel": "etanol",
+      "valor": 4.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0206",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0206",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.79,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0206",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0207",
+      "combustivel": "gasolina_comum",
+      "valor": 6.59,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0207",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0208",
+      "combustivel": "gasolina_comum",
+      "valor": 5.89,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0208",
+      "combustivel": "gasolina_aditivada",
+      "valor": 5.99,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0208",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0209",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0209",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.64,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0209",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0210",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0210",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.19,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0210",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0211",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0211",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0211",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0212",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-03T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0212",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.59,
+      "dataColeta": "2026-09-03T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0213",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0213",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0213",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0214",
+      "combustivel": "gasolina_comum",
+      "valor": 6.79,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0214",
+      "combustivel": "gasolina_aditivada",
+      "valor": 7.09,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0214",
+      "combustivel": "etanol",
+      "valor": 4.09,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0215",
+      "combustivel": "gasolina_comum",
+      "valor": 6.59,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0215",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.59,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0215",
+      "combustivel": "etanol",
+      "valor": 4.19,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0216",
+      "combustivel": "gasolina_comum",
+      "valor": 6.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0216",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0216",
+      "combustivel": "etanol",
+      "valor": 4.09,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0217",
+      "combustivel": "gasolina_comum",
+      "valor": 6.69,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0217",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.89,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0217",
+      "combustivel": "etanol",
+      "valor": 4.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0218",
+      "combustivel": "gasolina_comum",
+      "valor": 6.89,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0218",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0219",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0219",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0220",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0220",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0221",
+      "combustivel": "gasolina_comum",
+      "valor": 6.28,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0221",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.28,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0221",
+      "combustivel": "etanol",
+      "valor": 3.65,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0222",
+      "combustivel": "gasolina_comum",
+      "valor": 6.89,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0222",
+      "combustivel": "gasolina_aditivada",
+      "valor": 7.19,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0222",
+      "combustivel": "etanol",
+      "valor": 4.19,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0223",
+      "combustivel": "gasolina_comum",
+      "valor": 6.59,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0223",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.89,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0223",
+      "combustivel": "etanol",
+      "valor": 4.09,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0224",
+      "combustivel": "gasolina_comum",
+      "valor": 6.59,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0224",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.79,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0224",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0225",
+      "combustivel": "gasolina_comum",
+      "valor": 5.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0225",
+      "combustivel": "gasolina_aditivada",
+      "valor": 5.89,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0225",
+      "combustivel": "etanol",
+      "valor": 3.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0226",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0226",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.54,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0226",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0227",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0227",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0227",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0228",
+      "combustivel": "gasolina_comum",
+      "valor": 6.59,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0228",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.79,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0228",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0229",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0229",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0230",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.39,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0231",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0231",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.83,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0231",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0232",
+      "combustivel": "gasolina_comum",
+      "valor": 6.68,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0232",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.98,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0232",
+      "combustivel": "etanol",
+      "valor": 3.88,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0233",
+      "combustivel": "gasolina_comum",
+      "valor": 5.98,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0233",
+      "combustivel": "etanol",
+      "valor": 3.28,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0234",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0234",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.49,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0234",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-17T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0235",
+      "combustivel": "gasolina_comum",
+      "valor": 6.69,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0235",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.79,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0235",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-08-24T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0236",
+      "combustivel": "gasolina_comum",
+      "valor": 6.58,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0236",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.78,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0237",
+      "combustivel": "gasolina_comum",
+      "valor": 6.59,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0237",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0237",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-08-31T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0238",
+      "combustivel": "gasolina_comum",
+      "valor": 6.89,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0238",
+      "combustivel": "gasolina_aditivada",
+      "valor": 7.03,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0238",
+      "combustivel": "etanol",
+      "valor": 4.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0239",
+      "combustivel": "gasolina_comum",
+      "valor": 6.09,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0239",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0240",
+      "combustivel": "gasolina_comum",
+      "valor": 6.59,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0240",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.89,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0240",
+      "combustivel": "etanol",
+      "valor": 4.19,
+      "dataColeta": "2026-09-14T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0241",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0241",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0241",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0242",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0242",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.64,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0242",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-08-25T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0243",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0243",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.19,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0243",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0244",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0244",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0244",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0245",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0245",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-08T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0246",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0246",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.19,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0246",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0247",
+      "combustivel": "gasolina_comum",
+      "valor": 6.49,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0247",
+      "combustivel": "etanol",
+      "valor": 3.99,
+      "dataColeta": "2026-09-15T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0248",
+      "combustivel": "gasolina_comum",
+      "valor": 6.09,
+      "dataColeta": "2026-09-02T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0248",
+      "combustivel": "etanol",
+      "valor": 3.39,
+      "dataColeta": "2026-09-02T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0249",
+      "combustivel": "gasolina_comum",
+      "valor": 5.99,
+      "dataColeta": "2026-09-10T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0249",
+      "combustivel": "etanol",
+      "valor": 3.49,
+      "dataColeta": "2026-09-10T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0250",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-02T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0250",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.35,
+      "dataColeta": "2026-09-02T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0250",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-02T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0251",
+      "combustivel": "gasolina_comum",
+      "valor": 6.55,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0251",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.85,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0251",
+      "combustivel": "etanol",
+      "valor": 3.89,
+      "dataColeta": "2026-09-07T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0252",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-02T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0252",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.29,
+      "dataColeta": "2026-09-02T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0252",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-02T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0253",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-09T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0253",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.69,
+      "dataColeta": "2026-09-09T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0253",
+      "combustivel": "etanol",
+      "valor": 3.69,
+      "dataColeta": "2026-09-09T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0254",
+      "combustivel": "gasolina_comum",
+      "valor": 6.58,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0254",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.88,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0254",
+      "combustivel": "etanol",
+      "valor": 4.18,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0255",
+      "combustivel": "gasolina_comum",
+      "valor": 6.59,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0255",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.99,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0255",
+      "combustivel": "etanol",
+      "valor": 4.19,
+      "dataColeta": "2026-09-11T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0256",
+      "combustivel": "gasolina_comum",
+      "valor": 6.29,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0256",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.49,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0256",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0257",
+      "combustivel": "gasolina_comum",
+      "valor": 6.39,
+      "dataColeta": "2026-09-09T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0257",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.59,
+      "dataColeta": "2026-09-09T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0257",
+      "combustivel": "etanol",
+      "valor": 3.79,
+      "dataColeta": "2026-09-09T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0258",
+      "combustivel": "gasolina_comum",
+      "valor": 6.19,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0258",
+      "combustivel": "gasolina_aditivada",
+      "valor": 6.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    },
+    {
+      "postoId": "anp_0258",
+      "combustivel": "etanol",
+      "valor": 3.59,
+      "dataColeta": "2026-09-16T00:00:00.000"
+    }
+  ]
+}
